@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+#one{
+    height: 300px;
+}
+
+.first{
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.second{
+    width: 100%;
+    border: 5px solid red;
+}
